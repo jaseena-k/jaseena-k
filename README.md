@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Jasi
+# Hi 👋, I'm Jaseena
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Computer+Science+Learner;Full+Stack+Web+Developer;Building+cool+projects+with+code" />
 
