@@ -143,7 +143,7 @@ A **RAG-based real-time chat application** where users can upload documents and 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO_URL)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jaseena-k)
 
 </div>
 
